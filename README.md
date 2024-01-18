@@ -1,4 +1,4 @@
-As we all know, Odin was a viking. As such, nothing better than some viking recipes that Odin himself would love.
+As we all know, Odin was a viking. I asked which turkish food he would like and here is top 3.
 
 This simple site was created in order to practice the basics of HTML I learned in The Odin Project. You can see the project assignment here.
 
